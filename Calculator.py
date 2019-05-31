@@ -1,4 +1,3 @@
-
 import tkinter as tk
 mainWindow=tk.Tk()
 mainWindow.title("CALCULATOR")
