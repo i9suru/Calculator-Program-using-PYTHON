@@ -8,7 +8,7 @@
 ### OUTPUT
 ![alt text](https://github.com/i9suru/Calculator-Program-using-PYTHON/blob/master/CalculatorO.PNG)
 ### WE CAN DO ADDITION/ SUBTRACTION/ MULTIPLCATION/ DIVISION
-### FOR EXAMPLE ADDTION
+### FOR EXAMPLE ADDITION
 ![alt text](https://github.com/i9suru/Calculator-Program-using-PYTHON/blob/master/cal0.PNG)
 ### THERE MAY BE ERROR ON DIVIDING BY ZERO SO EXCEEPTION HANDLING IS USED
 ![alt text](https://github.com/i9suru/Calculator-Program-using-PYTHON/blob/master/cal1.PNG)
