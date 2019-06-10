@@ -7,7 +7,7 @@
 5. Datatype,Variable,tkinder,condition,SQL,Function,Excception Handling,
 ### OUTPUT
 ![alt text](https://github.com/i9suru/Calculator-Program-using-PYTHON/blob/master/CalculatorO.PNG)
-### WE CAN DO ADDITION SUBTRACTION MULTIPLCATION
+### WE CAN DO ADDITION/ SUBTRACTION/ MULTIPLCATION/ DIVISION
 ### FOR EXAMPLE ADDTION
 ![alt text](https://github.com/i9suru/Calculator-Program-using-PYTHON/blob/master/cal0.PNG)
 ### THERE MAY BE ERROR ON DIVIDING BY ZERO SO EXCEEPTION HANDLING IS USED
